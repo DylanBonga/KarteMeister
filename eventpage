@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<style>
+body {
+  background-color: linen;
+}
+
+h1 {
+  color: maroon;
+  margin-left: 40px;}
+h2 {  color: maroon;}
+h3 {  color: maroon;}
+p {  color: maroon;}
+</style>
+</head>
+
+<body>
+  <div id="eventName">
+	<h1>Evenement Naam</h1>
+  </div>
+
+  <div id="description">
+	<h2>Beschrijving</h2>
+  </div>
+
+  <div id="category">
+	<h2>Categorie</h2>
+category.style.left()
+  </div>
+
+  <div id="eventAgenda">
+	<h2>Evenement Agenda</h2>
+
+	<div id="eventList">
+  	<p>Evenementen lijst ...</p>
+	</div>
+  </div>
+
+
+<script>
+</script>
+</body>
+</html>
