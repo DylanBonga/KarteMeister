@@ -27,7 +27,6 @@ p {  color: maroon;}
 
   <div id="category">
 	<h2>Categorie</h2>
-category.style.left()
   </div>
 
   <div id="eventAgenda">
